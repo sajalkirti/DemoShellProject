@@ -1,0 +1,6 @@
+@DemoShellProject_HostAddress = http://localhost:5122
+
+GET {{DemoShellProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
